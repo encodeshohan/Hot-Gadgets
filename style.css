@@ -1,0 +1,28 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+}
+.container{
+    margin-bottom: 80px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+.orange{
+    color: orange;
+    text-decoration: none;
+}
+.card{
+    border: none;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
