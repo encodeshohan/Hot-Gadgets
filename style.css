@@ -8,6 +8,7 @@ body{
     padding: 20px 40px;
 }
 .buy-now-button{
+    border: none;
     background-color: black;
     color: white;
     padding: 10px 25px;
